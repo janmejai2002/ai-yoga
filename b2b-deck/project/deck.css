@@ -134,6 +134,10 @@ section {
 .team { border-top: 1px solid var(--line-d); padding-top: 32px; display: flex; flex-direction: column; gap: 10px; }
 .team-label { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 24px; letter-spacing: 3px; text-transform: uppercase; color: var(--hum); margin: 0; }
 .team-names { font-size: 32px; font-weight: 500; color: var(--paper); margin: 0; }
+.members { display: flex; gap: 48px; margin: 6px 0 4px; }
+.mem { display: flex; flex-direction: column; gap: 2px; }
+.mem-n { font-size: 28px; font-weight: 600; color: var(--paper); margin: 0; white-space: nowrap; }
+.mem-r { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 24px; color: var(--muted-d); margin: 0; }
 .team-meta { font-size: 24px; color: var(--muted-d); margin: 0; }
 
 /* ---------- context ---------- */

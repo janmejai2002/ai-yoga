@@ -6,11 +6,11 @@
 
 | # | Speaker | Slides | Words | Time at 135 wpm |
 |---|---------|--------|-------|-----------------|
-| 1 | Janmejai | Cover + 01 Context | ~278 | 2:04 |
-| 2 | [Name 2] | 02 Evidence | ~270 | 2:00 |
-| 3 | [Name 3] | 03 Patterns | ~255 | 1:53 |
-| 4 | [Name 4] | 04 Implications | ~265 | 1:58 |
-| 5 | [Name 5] | 05 Reflection + close | ~236 | 1:45 |
+| 1 | Janmejai (B25349) | Cover + 01 Context | ~278 | 2:04 |
+| 2 | Khushi | 02 Evidence | ~270 | 2:00 |
+| 3 | Chaitanya | 03 Patterns | ~255 | 1:53 |
+| 4 | Lavanya | 04 Implications | ~265 | 1:58 |
+| 5 | Yashasvi | 05 Reflection + close | ~236 | 1:45 |
 
 ---
 
@@ -18,7 +18,7 @@
 
 *[Cover on screen. Stand still and make eye contact. Don't rush the opening.]*
 
-Good [morning], Professor. We're [Group name], and our topic is technology as an input to managerial judgment.
+Good [morning], Professor. We're B2B Group 1, and our topic is technology as an input to managerial judgment.
 
 Picture this. A sales manager opens the CRM on a Monday. It says one of the biggest accounts is safe: low churn risk. And that same week, the manager books a visit to that client anyway. Why would someone with a perfectly good dashboard ignore it?
 
@@ -34,11 +34,11 @@ So we asked one question: when the system says one thing and experience says ano
 
 And note what we did *not* study. We didn't ask whether firms adopt AI. We studied judgment. We held [N] structured conversations across [N] industries, and for every story we pinned down the same six things: the context, the people, the trigger, the constraints, the options, and the outcome.
 
-That gave us six decision episodes. [Name 2] will take you through them.
+That gave us six decision episodes. Khushi will take you through them.
 
 ---
 
-## Speaker 2 — [Name 2] · Slide 02 Evidence (≈2:00)
+## Speaker 2 — Khushi Srivastava · Slide 02 Evidence (≈2:00)
 
 Thanks. One thing to hold on to: on this slide, **blue is always what the system said, and amber is what the manager did.** The story is in the gap between the two.
 
@@ -52,11 +52,11 @@ Same kind of tool, opposite behaviour. Across all six, only one is a clean follo
 
 Every episode is written up in full in the report, with transcripts in the appendix.
 
-So is there a pattern behind who follows and who overrides? [Name 3].
+So is there a pattern behind who follows and who overrides? Chaitanya.
 
 ---
 
-## Speaker 3 — [Name 3] · Slide 03 Patterns (≈2:00)
+## Speaker 3 — Chaitanya Sharma · Slide 03 Patterns (≈2:00)
 
 Thank you. When we laid the six episodes side by side, two questions explained almost every choice.
 
@@ -76,11 +76,11 @@ Three things cut across this. One, trust is situational: the same logistics mana
 
 Three, and this is our central insight: managers decide fast, on experience (System 1, in Kahneman's terms), and then call on the tool's slow, deliberate analysis (System 2) mainly to justify and defend. **The tool is System 2 on demand.**
 
-So what does that mean for people who sell to these managers? [Name 4].
+So what does that mean for people who sell to these managers? Lavanya.
 
 ---
 
-## Speaker 4 — [Name 4] · Slide 04 Implications (≈2:00)
+## Speaker 4 — Lavanya Krishan Sharma · Slide 04 Implications (≈2:00)
 
 Thanks. If decisions really run on these four logics, then a lot of B2B marketing today, which pitches tools on accuracy and features, is talking to the wrong part of the buyer. The real customer is the judgment behind the dashboard.
 
@@ -96,11 +96,11 @@ Here's what each logic implies, and each one traces back to an episode.
 
 Notice that none of these says "replace judgment with technology". Each one is about designing offers, content and sales conversations around how judgment *actually uses* technology.
 
-These implications are only as strong as our fieldwork, so [Name 5] will close with what was hard, and what we'd do differently.
+These implications are only as strong as our fieldwork, so Yashasvi will close with what was hard, and what we'd do differently.
 
 ---
 
-## Speaker 5 — [Name 5] · Slide 05 Reflection + Close (≈1:45)
+## Speaker 5 — Yashasvi Dhamija · Slide 05 Reflection + Close (≈1:45)
 
 Thank you. We want to be honest about how we got these stories, because the method shaped what we found.
 
@@ -120,7 +120,7 @@ Thank you, we're happy to take questions.
 
 ## Before you present: must-do checklist
 
-1. **Replace placeholders:** `[Group Name]`, `[Member 2–5]` (cover), `[N] field conversations · [N] industries` (slide 01), and `[Name 2–5]` in this script.
+1. **Replace placeholders:** `[N] field conversations · [N] industries` (slide 01 and Speaker 1's lines).
 2. **Match the six episodes to your real interviews.** E1–E6 are *draft* episodes. I built them as realistic archetypes, not from your transcripts. For each one, swap in the sector, role, tool, what the system said, what the manager did, and why, exactly as your respondents told it. Where your evidence differs, change the card. Then check that the quadrant tags on slide 03 and the episode tags on slide 04 still match. Never present an episode you didn't actually collect.
 3. **Researcher's note (slide 05):** edit the bullets so they describe what *your* group really found hard. The brief grades this on honesty, not polish.
 4. **References for the report (APA):**
