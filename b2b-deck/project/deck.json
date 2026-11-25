@@ -1,0 +1,22 @@
+{
+  "v": 5,
+  "createdOnFiles": { "v": 1, "at": "2026-11-25T14:10:00Z" },
+  "lists": "css",
+  "format": { "v": 1, "shared": ["project/deck.css"] },
+  "title": "The Override Gap",
+  "order": ["cover", "context", "evidence", "patterns", "implications", "reflection"],
+  "sections": {
+    "s0": { "description": "Cover: the override gap between system recommendation and managerial decision.", "start": "cover" },
+    "s1": { "description": "Context: data-rich B2B decisions, contested literature, our research question and method.", "start": "context" },
+    "s2": { "description": "Field evidence: six decision episodes where the system was negotiated, not obeyed.", "start": "evidence" },
+    "s3": { "description": "Sensemaking: four decision logics and three cross-cutting patterns.", "start": "patterns" },
+    "s4": { "description": "Implications for B2B marketing practice, mapped to each logic.", "start": "implications" },
+    "s5": { "description": "Researcher’s note and closing line.", "start": "reflection" }
+  },
+  "faces": {
+    "fraunces": { "family": "Fraunces", "href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&display=swap" },
+    "inter": { "family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" },
+    "jetbrains-mono": { "family": "JetBrains Mono", "href": "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap" }
+  },
+  "designSystems": []
+}
