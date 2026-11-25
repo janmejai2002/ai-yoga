@@ -18,7 +18,7 @@
 
 *[Cover on screen. Stand still and make eye contact. Don't rush the opening.]*
 
-Good [morning], Professor. We're B2B Group 1, and our topic is technology as an input to managerial judgment.
+Good morning, Professor. We're B2B Group 1, and our topic is technology as an input to managerial judgment.
 
 Picture this. A sales manager opens the CRM on a Monday. It says one of the biggest accounts is safe: low churn risk. And that same week, the manager books a visit to that client anyway. Why would someone with a perfectly good dashboard ignore it?
 
@@ -32,7 +32,7 @@ But research doesn't agree on how people treat these tools. One stream shows peo
 
 So we asked one question: when the system says one thing and experience says another, what do managers actually do, and why?
 
-And note what we did *not* study. We didn't ask whether firms adopt AI. We studied judgment. We held [N] structured conversations across [N] industries, and for every story we pinned down the same six things: the context, the people, the trigger, the constraints, the options, and the outcome.
+And note what we did *not* study. We didn't ask whether firms adopt AI. We studied judgment. We held six structured conversations across six industries, and for every story we pinned down the same six things: the context, the people, the trigger, the constraints, the options, and the outcome.
 
 That gave us six decision episodes. Khushi will take you through them.
 

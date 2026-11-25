@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+b2b-deck/submission/build/pv/
+b2b-deck/submission/build/*.png
+b2b-deck/submission/build/*.jpg
+b2b-deck/submission/build/*.pdf
+b2b-deck/submission/build/*.docx
+b2b-deck/submission/build/*.pptx
+b2b-deck/submission/build/__pycache__/
+!b2b-deck/submission/build/fig1.png
