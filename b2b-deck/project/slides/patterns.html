@@ -1,51 +1,81 @@
 <section id="patterns" class="dark" data-transition="fade">
+<svg class="bg" width="1920" height="1080" viewBox="0 0 1920 1080" aria-label="">
+<defs>
+<filter id="pt-grain"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.06 0"/></filter>
+<radialGradient id="pt-ga" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#F0A33A" stop-opacity="0.16"/><stop offset="1" stop-color="#F0A33A" stop-opacity="0"/></radialGradient>
+</defs>
+<circle cx="1640" cy="820" r="560" fill="url(#pt-ga)"/>
+<rect x="0" y="0" width="1920" height="1080" filter="url(#pt-grain)"/>
+</svg>
 <p class="eyebrow">03 · Sensemaking</p>
 <h2 class="claim">Four logics decide when <span class="hl">judgment</span> beats the system.</h2>
 <div class="pat">
-<div class="matrix">
+<div class="map">
 <p class="ax">↑ Personal blame if it goes wrong</p>
-<div class="quads">
-<div class="q q-shield rise" style="--i:1">
-<p class="q-k">Shield</p>
-<p class="q-d">Follow the system — a system-backed call is defensible.</p>
-<p class="q-e">E6</p>
-</div>
-<div class="q rise" style="--i:2">
-<p class="q-k">Argue</p>
-<p class="q-d">Use system data as evidence to escalate or broker a hybrid.</p>
-<p class="q-e">E2 · E3</p>
-</div>
-<div class="q rise" style="--i:3">
-<p class="q-k">Filter</p>
-<p class="q-d">Routine calls: attend only to what superiors review.</p>
-<p class="q-e">E5 · E4 (normal days)</p>
-</div>
-<div class="q q-over rise" style="--i:4">
-<p class="q-k">Override</p>
-<p class="q-d">Experience and relationships beat the model.</p>
-<p class="q-e">E1 · E4 (festive peak)</p>
-</div>
+<div class="plot rise" style="--i:1">
+<svg width="1010" height="560" viewBox="0 0 1010 560" aria-label="Two-by-two map. Vertical axis: personal blame if wrong. Horizontal axis: context only the manager can see. E6 sits in Shield (top left); E2 and E3 in Argue (top right); E5 and E4 on normal days in Filter (bottom left); E1 and E4 in the festive peak in Override (bottom right). A dashed arc links the two E4 points: the same manager, two seasons.">
+<defs>
+<clipPath id="pt-clip"><rect x="0" y="0" width="1010" height="560" rx="26"/></clipPath>
+<radialGradient id="pt-gb" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#3E6FE0" stop-opacity="0.55"/><stop offset="1" stop-color="#3E6FE0" stop-opacity="0"/></radialGradient>
+<radialGradient id="pt-go" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#F0A33A" stop-opacity="0.45"/><stop offset="1" stop-color="#F0A33A" stop-opacity="0"/></radialGradient>
+<radialGradient id="pt-gw" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#F3EEE4" stop-opacity="0.10"/><stop offset="1" stop-color="#F3EEE4" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#pt-clip)">
+<rect x="0" y="0" width="1010" height="560" fill="#141A29"/>
+<circle cx="200" cy="130" r="430" fill="url(#pt-gb)"/>
+<circle cx="830" cy="450" r="430" fill="url(#pt-go)"/>
+<circle cx="760" cy="140" r="300" fill="url(#pt-gw)"/>
+</g>
+<rect x="1" y="1" width="1008" height="558" rx="26" fill="none" stroke="#2C3446" stroke-width="2"/>
+<line x1="505" y1="18" x2="505" y2="542" stroke="#4A5468" stroke-width="2" stroke-dasharray="6 8"/>
+<line x1="18" y1="280" x2="992" y2="280" stroke="#4A5468" stroke-width="2" stroke-dasharray="6 8"/>
+<path d="M380 345 Q510 250 640 355" fill="none" stroke="#F0A33A" stroke-width="3" stroke-dasharray="8 8"/>
+<path d="M622 336 L640 355 L615 360" fill="none" stroke="#F0A33A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="250" cy="225" r="24" fill="#6E9BF2" fill-opacity="0.25"/><circle cx="250" cy="225" r="11" fill="#6E9BF2"/>
+<circle cx="650" cy="215" r="24" fill="#F3EEE4" fill-opacity="0.18"/><circle cx="650" cy="215" r="11" fill="#F3EEE4"/>
+<circle cx="820" cy="200" r="24" fill="#F3EEE4" fill-opacity="0.18"/><circle cx="820" cy="200" r="11" fill="#F3EEE4"/>
+<circle cx="170" cy="330" r="11" fill="#969DAA"/>
+<circle cx="380" cy="345" r="11" fill="#969DAA"/>
+<circle cx="850" cy="330" r="24" fill="#F0A33A" fill-opacity="0.3"/><circle cx="850" cy="330" r="11" fill="#F0A33A"/>
+<circle cx="640" cy="355" r="24" fill="#F0A33A" fill-opacity="0.3"/><circle cx="640" cy="355" r="11" fill="#F0A33A"/>
+</svg>
+<p class="qk qk-shield">Shield</p>
+<p class="qd qd-shield">Follow the system — a system-backed call is defensible.</p>
+<p class="qk qk-argue">Argue</p>
+<p class="qd qd-argue">Use system data as evidence to escalate or broker a hybrid.</p>
+<p class="qk qk-filter">Filter</p>
+<p class="qd qd-filter">Routine calls: attend only to what superiors review.</p>
+<p class="qk qk-over">Override</p>
+<p class="qd qd-over">Experience and relationships beat the model.</p>
+<p class="dl" style="left:272px; top:192px;">E6</p>
+<p class="dl" style="left:672px; top:182px;">E2</p>
+<p class="dl" style="left:842px; top:167px;">E3</p>
+<p class="dl" style="left:192px; top:297px;">E5</p>
+<p class="dl" style="left:286px; top:330px; width:70px; text-align:right;">E4</p>
+<p class="dl" style="left:872px; top:297px;">E1</p>
+<p class="dl" style="left:664px; top:356px;">E4</p>
+<p class="arc-l">same manager, two seasons</p>
 </div>
 <p class="ax ax-x">Context only the manager can see →</p>
 </div>
 <div class="ins">
-<div class="in rise" style="--i:5">
-<p class="in-n">Pattern 01</p>
+<div class="in rise" style="--i:3">
+<p class="in-n">i.</p>
 <p class="in-t">Trust is situational, not tool-level</p>
 <p class="in-d">The same manager followed and overrode the same optimiser, depending on the season (E4).</p>
 </div>
-<div class="in rise" style="--i:6">
-<p class="in-n">Pattern 02</p>
+<div class="in rise" style="--i:4">
+<p class="in-n">ii.</p>
 <p class="in-t">Sector sets the default</p>
 <p class="in-d">Regulated settings lean Shield; relationship-led settings lean Override and Argue.</p>
 </div>
-<div class="in in-key rise" style="--i:7">
+<div class="in in-key rise" style="--i:5">
 <p class="in-n">Core insight</p>
 <p class="in-t">The tool is “System 2 on demand”</p>
 <p class="in-d">Managers decide fast on experience, then call on the tool’s slow analysis to justify the call (Kahneman, 2011).</p>
 </div>
 </div>
 </div>
-<div class="tracker"><p>01 Context</p><p>02 Evidence</p><p class="on">03 Patterns</p><p>04 Implications</p><p>05 Reflection</p></div>
-<aside>SPEAKER 3 — Chaitanya Sharma (about 2 minutes). Thank you. When we laid the six episodes side by side, two questions explained almost every choice. First, the vertical axis: if this goes wrong, who carries the blame? Second, the horizontal: does the manager hold context the model simply cannot see — a relationship, a season, a new person at the client? Put them together and you get four logics. Top-left, Shield: the model’s view is good enough and the manager’s neck is on the line, so they follow, because a system-backed decision is defensible. That’s our maintenance head. Bottom-right, Override: rich private knowledge, lower personal exposure, so experience wins. That’s the sales manager who knew about the client’s new buyer. Top-right is the most interesting one, Argue: high stakes and private knowledge. Here managers neither obey nor ignore; they use the system’s data as evidence to push a decision upward, like the deeper discount or the split award. Bottom-left, Filter: routine calls, where attention simply goes wherever the boss looks. Three things cut across this. One, trust is situational: the same logistics manager followed the optimiser for most of the year and overrode it in the festive season. Two, sector sets the default: regulated settings lean towards Shield, relationship-heavy ones towards Override and Argue. Three, our central insight: managers decide fast, on experience — System 1 in Kahneman’s terms — and call on the tool’s slow, deliberate analysis, System 2, mainly to justify and defend. The tool is System 2 on demand. So what does that mean for people who sell to these managers? Lavanya. [Click]</aside>
+<div class="prog"><div class="seg"></div><div class="seg"></div><div class="seg on"></div><div class="seg"></div><div class="seg"></div><p class="prog-l">Patterns</p></div>
+<aside>SPEAKER 3 — Chaitanya Sharma (about 2 minutes). Thank you. When we laid the six episodes side by side, two questions explained almost every choice. First, the vertical axis: if this goes wrong, who carries the blame? Second, the horizontal: does the manager hold context the model simply cannot see — a relationship, a season, a new person at the client? Put them together and you get four logics, and each dot is one of our episodes. Top-left, Shield: the model’s view is good enough and the manager’s neck is on the line, so they follow, because a system-backed decision is defensible. That’s our maintenance head. Bottom-right, Override: rich private knowledge, lower personal exposure, so experience wins. That’s the sales manager who knew about the client’s new buyer. Top-right is the most interesting one, Argue: high stakes and private knowledge. Here managers neither obey nor ignore; they use the system’s data as evidence to push a decision upward, like the deeper discount or the split award. Bottom-left, Filter: routine calls, where attention simply goes wherever the boss looks. Three things cut across this. One, trust is situational: look at the dashed arc. The same logistics manager followed the optimiser for most of the year and overrode it in the festive season. Two, sector sets the default: regulated settings lean towards Shield, relationship-heavy ones towards Override and Argue. Three, our central insight: managers decide fast, on experience — System 1 in Kahneman’s terms — and call on the tool’s slow, deliberate analysis, System 2, mainly to justify and defend. The tool is System 2 on demand. So what does that mean for people who sell to these managers? Lavanya. [Click]</aside>
 </section>

@@ -1,20 +1,21 @@
 <section id="cover" class="dark" data-transition="fade">
-<svg class="gap-art fadein" style="--i:3" width="752" height="560" viewBox="0 0 752 560" aria-label="A straight blue line labelled system recommendation and a curved amber line labelled manager’s decision start at the same point and diverge; the shaded space between them is the override gap.">
+<svg class="bg fadein" style="--i:2" width="1920" height="1080" viewBox="0 0 1920 1080" aria-label="Two lines start at one point: a dashed blue line labelled system recommends rises steeply, and an amber line labelled manager decides stays low; the glowing wedge between them, marked with an angle arc, is the override gap.">
 <defs>
-<linearGradient id="gapfill" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0" stop-color="#E8A33D" stop-opacity="0"/>
-<stop offset="1" stop-color="#E8A33D" stop-opacity="0.22"/>
-</linearGradient>
+<radialGradient id="cv-gb" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#3E6FE0" stop-opacity="0.42"/><stop offset="1" stop-color="#3E6FE0" stop-opacity="0"/></radialGradient>
+<radialGradient id="cv-ga" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#F0A33A" stop-opacity="0.30"/><stop offset="1" stop-color="#F0A33A" stop-opacity="0"/></radialGradient>
+<linearGradient id="cv-gap" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F0A33A" stop-opacity="0"/><stop offset="1" stop-color="#F0A33A" stop-opacity="0.26"/></linearGradient>
+<filter id="cv-grain"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.07 0"/></filter>
 </defs>
-<line x1="0" y1="140" x2="752" y2="140" stroke="#2E3647" stroke-width="1"/>
-<line x1="0" y1="280" x2="752" y2="280" stroke="#2E3647" stroke-width="1"/>
-<line x1="0" y1="420" x2="752" y2="420" stroke="#2E3647" stroke-width="1"/>
-<path d="M24 500 L728 40 L728 420 C520 440 300 470 24 500 Z" fill="url(#gapfill)"/>
-<line x1="24" y1="500" x2="728" y2="40" stroke="#6E9BF2" stroke-width="5" stroke-dasharray="14 10" stroke-linecap="round"/>
-<path d="M24 500 C300 470 520 440 728 420" fill="none" stroke="#E8A33D" stroke-width="7" stroke-linecap="round"/>
-<circle cx="24" cy="500" r="12" fill="#F4F1EA"/>
-<circle cx="728" cy="40" r="11" fill="#6E9BF2"/>
-<circle cx="728" cy="420" r="13" fill="#E8A33D"/>
+<circle cx="1640" cy="160" r="720" fill="url(#cv-gb)"/>
+<circle cx="1780" cy="720" r="520" fill="url(#cv-ga)"/>
+<circle cx="980" cy="690" r="220" fill="none" stroke="#2C3446" stroke-width="2" stroke-dasharray="4 8"/>
+<path d="M980 690 L1920 90 L1920 560 Z" fill="url(#cv-gap)"/>
+<line x1="980" y1="690" x2="1920" y2="90" stroke="#6E9BF2" stroke-width="5" stroke-dasharray="16 12" stroke-linecap="round"/>
+<line x1="980" y1="690" x2="1920" y2="560" stroke="#F0A33A" stroke-width="8" stroke-linecap="round"/>
+<path d="M1197.9 659.8 A220 220 0 0 0 1165.5 571.8" fill="none" stroke="#F3EEE4" stroke-width="4"/>
+<circle cx="980" cy="690" r="30" fill="#F3EEE4" fill-opacity="0.12"/>
+<circle cx="980" cy="690" r="13" fill="#F3EEE4"/>
+<rect x="0" y="0" width="1920" height="1080" filter="url(#cv-grain)"/>
 </svg>
 <p class="art-label lbl-sys fadein" style="--i:5">System recommends</p>
 <p class="lbl-gap fadein" style="--i:7">the override gap</p>
@@ -34,5 +35,5 @@
 </div>
 <p class="team-meta">Presented to Dr Mohit Malhan · B2B Marketing · Term 5, 2026–27</p>
 </div>
-<aside>SPEAKER 1 — Janmejai (cover + slide 1, about 2 minutes together). Open on the cover for ~20 seconds. Good [morning], Professor. We’re B2B Group 1, and our topic is technology as an input to managerial judgment. Picture this: a sales manager opens the CRM on a Monday. It says one of the biggest accounts is safe, low churn risk. And that same week, the manager books a visit to that client anyway. Why would someone with a perfectly good dashboard ignore it? That space between what the system recommends and what the manager actually does is what we call the override gap. It’s what this project is about. [Click]</aside>
+<aside>SPEAKER 1 — Janmejai (cover + slide 1, about 2 minutes together). Open on the cover for ~20 seconds. Good [morning], Professor. We’re B2B Group 1, and our topic is technology as an input to managerial judgment. Picture this: a sales manager opens the CRM on a Monday. It says one of the biggest accounts is safe, low churn risk. And that same week, the manager books a visit to that client anyway. Why would someone with a perfectly good dashboard ignore it? That space between what the system recommends and what the manager actually does is what we call the override gap. [Point at the glowing wedge.] It’s what this project is about. [Click]</aside>
 </section>

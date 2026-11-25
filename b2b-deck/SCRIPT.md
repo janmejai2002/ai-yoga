@@ -22,7 +22,7 @@ Good [morning], Professor. We're B2B Group 1, and our topic is technology as an 
 
 Picture this. A sales manager opens the CRM on a Monday. It says one of the biggest accounts is safe: low churn risk. And that same week, the manager books a visit to that client anyway. Why would someone with a perfectly good dashboard ignore it?
 
-That space between what the system recommends and what the manager actually does is what we call **the override gap**. *[Point at the shaded wedge.]* It's what this project is about.
+That space between what the system recommends and what the manager actually does is what we call **the override gap**. *[Point at the glowing wedge.]* It's what this project is about.
 
 *[Click → Slide 01]*
 
@@ -40,15 +40,15 @@ That gave us six decision episodes. Khushi will take you through them.
 
 ## Speaker 2 — Khushi Srivastava · Slide 02 Evidence (≈2:00)
 
-Thanks. One thing to hold on to: on this slide, **blue is always what the system said, and amber is what the manager did.** The story is in the gap between the two.
+Thanks. Two things to hold on to. **Blue is always what the system said, and amber is what the manager did.** And the cards run from "followed the system" on the left to "overrode it" on the right. *[Trace the gradient bar with your hand.]* The little wedge on each card shows how far that manager moved away from the system.
 
-Six episodes, six sectors, from a distributor to a pharma buyer to an auto-component plant. Let me go deep on two, because they sit at opposite ends.
+Six episodes, six sectors. Let me go deep on two, because they sit at opposite ends.
 
-First, **E2, pharma sourcing.** The e-sourcing scorecard ranked the bids and said: give the whole order to the lowest bidder. The sourcing head didn't reject the system. The low bidder still got the larger share. But the incumbent kept thirty percent. Why? The trigger was a price-driven tender, but the constraint was regulation: if a new supplier's material fails an audit, a plant can stop. The saving was real, but nobody gets blamed for a split award. So the decision isn't human versus machine. It's a negotiated middle.
+First, **E6**, top-left. A maintenance head got an IoT alert to replace a part early. Personally, they thought the part had life left. They replaced it anyway, because if the line stops, "the system flagged it" is the safest defence available. No gap at all.
 
-Now **E6**, the opposite end. A maintenance head got an IoT alert to replace a part early. Personally, they thought the part had life left. They replaced it anyway, because if the line stops, "the system flagged it" is the safest defence available.
+Now **E2, pharma sourcing.** The e-sourcing scorecard ranked the bids and said: give the whole order to the lowest bidder. The sourcing head didn't reject the system. The low bidder still got the larger share. But the incumbent kept thirty percent. Why? The trigger was a price-driven tender, but the constraint was regulation: if a new supplier's material fails an audit, a plant can stop. The saving was real, but nobody gets blamed for a split award. So it isn't human versus machine. It's a negotiated middle.
 
-Same kind of tool, opposite behaviour. Across all six, only one is a clean follow and none is a clean ignore. Mostly, managers *bargain* with the system. They split, they escalate, they follow it on normal days and drop it in the festive peak, they read three numbers out of dozens.
+Across all six, only one is a clean follow and none is a clean ignore. Mostly, managers *bargain* with the system. They split, they escalate, they follow it on normal days and drop it in the festive peak, they read three numbers out of dozens.
 
 Every episode is written up in full in the report, with transcripts in the appendix.
 
@@ -62,7 +62,7 @@ Thank you. When we laid the six episodes side by side, two questions explained a
 
 First, the vertical axis: *if this goes wrong, who carries the blame?* Second, the horizontal: *does the manager hold context the model simply cannot see?* That could be a relationship, a season, or a new person at the client.
 
-Put them together and you get four logics.
+Put them together and you get four logics. Each dot is one of our episodes.
 
 Top-left, **Shield**: the model's view is good enough and the manager's neck is on the line, so they follow, because a system-backed decision is defensible. That's our maintenance head.
 
@@ -72,7 +72,7 @@ Top-right is the most interesting one, **Argue**: high stakes *and* private know
 
 Bottom-left, **Filter**: routine calls, where attention simply goes wherever the boss looks.
 
-Three things cut across this. One, trust is situational: the same logistics manager followed the optimiser for most of the year and overrode it in the festive season. Two, sector sets the default: regulated settings lean towards Shield, relationship-heavy ones towards Override and Argue.
+Three things cut across this. One, trust is situational. *[Point at the dashed arc.]* The same logistics manager followed the optimiser for most of the year and overrode it in the festive season. Two, sector sets the default: regulated settings lean towards Shield, relationship-heavy ones towards Override and Argue.
 
 Three, and this is our central insight: managers decide fast, on experience (System 1, in Kahneman's terms), and then call on the tool's slow, deliberate analysis (System 2) mainly to justify and defend. **The tool is System 2 on demand.**
 
@@ -110,7 +110,7 @@ What worked was one change in our question. When we asked "What do you think of 
 
 If we did this again, we'd do three things. Interview two people on the same decision, say the manager and their boss, to cross-check accounts. Actively look for overrides that went *wrong*, because our sample probably over-represents success stories; nobody volunteers their bad calls. And observe one decision live, rather than reconstruct it.
 
-*[Pause. Slow down for the last two sentences.]*
+*[Pause. Slow down for the last two sentences. Note that the cover's two lines are back in the corner: the talk ends where it began.]*
 
 So, to bring it together: across six episodes, technology rarely made the B2B decision. **What it did was shape what managers could defend.** Marketers who understand that difference will sell to the judgment, not just to the algorithm.
 
